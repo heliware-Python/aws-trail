@@ -31,7 +31,7 @@ DEBUG =os.getenv("DEBUG")
 
 # DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["ec2-54-190-15-32.us-west-2.compute.amazonaws.com"]
 
 
 # Application definition
